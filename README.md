@@ -1,3 +1,5 @@
+![Data Analysis RoadMap](https://github.com/RohitVerma0021/data-analysis-roadmap/blob/main/data%20analytics%20roadmap.png)
+
 # Python Programming and Logic Building
 
 ## Basics
